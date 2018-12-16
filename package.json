@@ -1,0 +1,14 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "First node.js app in a docker environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Md. Shahadat Hossain",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
